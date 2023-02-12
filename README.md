@@ -13,3 +13,10 @@
 7.Created an error handling mechanism in fetch api call.
 
 8.Created Sass App.scss globally 
+
+
+Data is passed from Parentcomponent to ChildComponent.
+Routes from Childcomponent to SuperchildComponent.
+Childcomponent to SuperChildComponent 
+SuperChildComponent to FetchapiComponent(lazyloade)
+
