@@ -6,4 +6,3 @@ Created a datastore to fetch data internally.
 Created a fetch api call using fake api.
 Created an error handling mechanism in fetch api call.
 Created Sass App.scss globally 
-Created lazy loading functionality 
